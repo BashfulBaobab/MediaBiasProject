@@ -23,6 +23,10 @@ Tweets on the articles used were also collected, and can be found in the tweet_l
 * Sentiment analysis using VADER
 
 ## Results
+![image](https://user-images.githubusercontent.com/66012117/140586337-bbd98765-594d-4669-bee4-4e1ce15e0af8.png)
+![image](https://user-images.githubusercontent.com/66012117/140586369-29f6107b-063b-423c-b6d2-94fe584c3b5d.png)
+![image](https://user-images.githubusercontent.com/66012117/140586382-10369459-70ec-4bba-a60f-8d9cd69cf8c8.png)
+![Bonus Meme](https://user-images.githubusercontent.com/66012117/140586390-a6668640-6e2a-4ab1-9882-cbb1692c9c2d.png)
 
 
 ## Contributors
