@@ -1,4 +1,4 @@
-# MediaBiasProject
+# Media Bias Analysis
 A project to analyze if there is an inherent bias in print media
 
 
@@ -29,7 +29,8 @@ Tweets on the articles used were also collected, and can be found in the tweet_l
 
 ![image](https://user-images.githubusercontent.com/66012117/140586382-10369459-70ec-4bba-a60f-8d9cd69cf8c8.png)  
 
-Bonus Meme
+Bonus Meme  
+
 ![Bonus Meme](https://user-images.githubusercontent.com/66012117/140586390-a6668640-6e2a-4ab1-9882-cbb1692c9c2d.png)
 
 
